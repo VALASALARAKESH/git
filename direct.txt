@@ -1,0 +1,1 @@
+This commit is done using a  specail command which commit the changes in single step with adding all the modified files to the staging area and make a commit with message.
